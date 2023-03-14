@@ -1,0 +1,16 @@
+.menu-item {
+    width: 24rem;
+ 
+    transition:0.1s;
+}
+
+.icon {
+    color: #DC3545;
+    padding-right:5px;
+    width:24px;
+    height:24px;
+}
+
+.menu-item:hover {
+    border-left: 3px solid #DC3545
+}
